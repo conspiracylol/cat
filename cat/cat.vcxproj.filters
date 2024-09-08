@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="cat">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="cat\cat">
+      <UniqueIdentifier>{387f7127-5e71-4155-bf00-105f6da02e13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cat.cpp">
+      <Filter>cat</Filter>
+    </ClCompile>
+    <ClCompile Include="cattttttttttt.cpp">
+      <Filter>cat</Filter>
+    </ClCompile>
+    <ClCompile Include="catcatcatcatcat.cpp">
+      <Filter>cat</Filter>
+    </ClCompile>
+    <ClCompile Include="catcat.cpp">
+      <Filter>cat\cat</Filter>
+    </ClCompile>
+    <ClCompile Include="catcatcat.cpp">
+      <Filter>cat\cat</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="catcatcatcat.h">
+      <Filter>cat</Filter>
+    </ClInclude>
+    <ClInclude Include="catcatcatcatcat.h">
+      <Filter>cat</Filter>
+    </ClInclude>
+    <ClInclude Include="cat.h">
+      <Filter>cat\cat</Filter>
+    </ClInclude>
+    <ClInclude Include="catcatcat.h">
+      <Filter>cat</Filter>
+    </ClInclude>
+    <ClInclude Include="catcat.h">
+      <Filter>cat\cat</Filter>
+    </ClInclude>
+    <ClInclude Include="catcatcatcatcatcat.h" />
+    <ClInclude Include="catcatcatcatcatcatcat.h" />
+    <ClInclude Include="catcatcatcatcatcatcatcat.h" />
+    <ClInclude Include="catttttttttttcattttttttttt.h" />
+    <ClInclude Include="catcatcatttttttttt.h" />
+  </ItemGroup>
+</Project>
